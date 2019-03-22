@@ -4,7 +4,7 @@
 using std::cin;
 using std::cout;
 using std::endl;
-int _tmain(int argc, _TCHAR* argv[])
+int main()
 {
 	Sales_item book;
 	cout << "Enter transactions:"<<endl;
